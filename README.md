@@ -1,5 +1,5 @@
 
-Lista de Tarefas (To-Do List)
+Lista de Tarefas (To-Do List) <br>
 Tecnologias Utilizadas:
 
 <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/> HTML
