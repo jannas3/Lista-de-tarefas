@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/images/todo-list-icon.png" alt="Ícone da Lista de Tarefas">
-</p>
+
 Lista de Tarefas (To-Do List)
 Tecnologias Utilizadas:
 
